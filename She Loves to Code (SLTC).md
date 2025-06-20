@@ -1,5 +1,3 @@
-# She Loves to Code (SLTC)
-
 **Roles of tutors:** *Helpers*
 **Retribution:** *Coalition points*
 
