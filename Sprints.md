@@ -1,4 +1,3 @@
-# Sprints
 **Roles of tutors:** *Helpers*
 
 **Retribution:** *Coalition points, achievements*
