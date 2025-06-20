@@ -1,5 +1,3 @@
-# EmpowHer
-
 - HTML
 - CSS
 - JavaScript
