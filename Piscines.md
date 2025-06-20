@@ -1,5 +1,3 @@
-# Piscines
-
 ## Tutoring during the Piscine
 
 Tutoring during the Piscine is another thing.
